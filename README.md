@@ -1,6 +1,6 @@
 ## Machine learning algorithms
 The methods used in machine learning are:
--[x] Linear Regression.
+- [x] Linear Regression.
 -[x] Logistic Regression.
 -[x] Decision Tree.
 -[x] SVM.
